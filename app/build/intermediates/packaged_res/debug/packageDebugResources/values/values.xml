@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Quote of the Day</string>
-    <style name="Theme.QuoteApp" parent="android:Theme.Material.Light.NoActionBar"/>
-</resources>
